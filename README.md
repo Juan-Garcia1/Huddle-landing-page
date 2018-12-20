@@ -2,6 +2,8 @@
 
 ![Header/intro section for the Huddle landing page with alternating sections](./design/desktop-preview.jpg)
 
+[View Landing Page](https://juan-garcia1.github.io/Huddle-landing-page/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
