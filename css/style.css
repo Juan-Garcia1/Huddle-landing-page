@@ -466,3 +466,26 @@ p {
     display: inline-block;
   }
 }
+
+@media(min-width: 2560px) {
+  .grow-sec::before {
+    height: 290px;
+    top: -285px;
+  }
+  .grow-sec::after {
+    height: 280px;
+    bottom: -275px;
+  }
+  .users-sec::before {
+    height: 280px;
+    top: -275px;
+  }
+  .users-sec::after {
+    height: 280px;
+    bottom: -250px;
+  }
+  .footer::before {
+    height: 280px;
+    top: -275px;
+  }
+}
